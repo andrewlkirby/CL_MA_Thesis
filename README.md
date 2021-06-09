@@ -1,4 +1,4 @@
-#Predicting Stock Price Movements Using Sentiment and Subjectivity Analyses
+# Predicting Stock Price Movements Using Sentiment and Subjectivity Analyses
 
 Thesis project for The CUNY Graduate Center Computational Linguistics MA Program, Spring 2021.
 
